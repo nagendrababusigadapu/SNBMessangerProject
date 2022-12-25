@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>734616072736-9ng925atk99uh76257ktgj8ahgfukmgc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.734616072736-9ng925atk99uh76257ktgj8ahgfukmgc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCn9KVXbNidWirqyZBGkRqZ4UbdzHLzjm0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>734616072736</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.myself.SNBMessanger</string>
+	<key>PROJECT_ID</key>
+	<string>snbmessanger</string>
+	<key>STORAGE_BUCKET</key>
+	<string>snbmessanger.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:734616072736:ios:e2303caff26f6b7f260245</string>
+</dict>
+</plist>
